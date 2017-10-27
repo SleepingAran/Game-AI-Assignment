@@ -15,18 +15,18 @@ MonoBehaviour:
     receptors:
     - structure:
         Position: {x: 0, y: 0, z: 0}
-        Direction: {x: 1, y: 0, z: 0}
+        Direction: {x: 0, y: 1, z: 0}
         Magnitude: 1
         Sensitivity: 90
       id: 0
-      neighbourIDs: ffffffffffffffff
+      neighbourIDs: 0100000001000000
     - structure:
-        Position: {x: -0, y: 0, z: 0}
-        Direction: {x: -1, y: 0, z: 0}
+        Position: {x: 0, y: -0, z: 0}
+        Direction: {x: 0, y: -1, z: 0}
         Magnitude: 1
         Sensitivity: 90
       id: 1
-      neighbourIDs: ffffffffffffffff
+      neighbourIDs: 0000000000000000
     planarOrientation: 0
     rotation: {x: 0, y: 0, z: 0, w: 1}
     inverseRotation: {x: 0, y: 0, z: 0, w: 1}

@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: b19b20d2666957d45922d269f900484f
+timeCreated: 1508990339
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CVCotM_Enemies_Werewolf_0
+    21300002: CVCotM_Enemies_Werewolf_1
+    21300004: CVCotM_Enemies_Werewolf_2
+    21300006: CVCotM_Enemies_Werewolf_3
+    21300008: CVCotM_Enemies_Werewolf_4
+    21300010: CVCotM_Enemies_Werewolf_5
+    21300012: CVCotM_Enemies_Werewolf_6
+    21300014: CVCotM_Enemies_Werewolf_7
+    21300016: CVCotM_Enemies_Werewolf_8
+    21300018: CVCotM_Enemies_Werewolf_9
+    21300020: CVCotM_Enemies_Werewolf_10
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 219, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 97
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15.5}
+        - {x: -14, y: 9.5}
+        - {x: -14, y: -13.5}
+        - {x: -12, y: -15.5}
+        - {x: 10, y: -15.5}
+        - {x: 14, y: -12.5}
+        - {x: 14, y: 6.5}
+        - {x: 5, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 97
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -10, y: 15}
+        - {x: -13, y: 13}
+        - {x: -13, y: -15}
+        - {x: 8, y: -15}
+        - {x: 13, y: -11}
+        - {x: 13, y: 5}
+        - {x: 12, y: 11}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 14.5}
+        - {x: -20, y: -9.5}
+        - {x: -13, y: -14.5}
+        - {x: 12, y: -14.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 15}
+        - {x: -19.5, y: -1}
+        - {x: -16.5, y: -15}
+        - {x: 12.5, y: -15}
+        - {x: 19.5, y: -5}
+        - {x: 19.5, y: 9}
+        - {x: 11.5, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 62
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 14}
+        - {x: -20, y: -14}
+        - {x: 15, y: -14}
+        - {x: 20, y: 0}
+        - {x: 20, y: 14}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 62
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 15}
+        - {x: -20, y: 14}
+        - {x: -20, y: -1}
+        - {x: -11, y: -13}
+        - {x: -5, y: -15}
+        - {x: 18, y: -15}
+        - {x: 20, y: -11}
+        - {x: 20, y: 14}
+        - {x: 19, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 62
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 14}
+        - {x: -19, y: 14}
+        - {x: -20, y: 13}
+        - {x: -20, y: -7}
+        - {x: -17, y: -14}
+        - {x: -1, y: -14}
+        - {x: 16, y: -10}
+        - {x: 20, y: 4}
+        - {x: 20, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 31
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 13}
+        - {x: -20, y: -10}
+        - {x: -14, y: -13}
+        - {x: 4, y: -13}
+        - {x: 20, y: 5}
+        - {x: 20, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 12.5}
+        - {x: -20, y: -12.5}
+        - {x: 12, y: -12.5}
+        - {x: 20, y: -6.5}
+        - {x: 20, y: 3.5}
+        - {x: 7, y: 12.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 31
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 13}
+        - {x: -20, y: -13}
+        - {x: 16, y: -13}
+        - {x: 20, y: -11}
+        - {x: 20, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CVCotM_Enemies_Werewolf_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 13}
+        - {x: -21.5, y: 10}
+        - {x: -23.5, y: 5}
+        - {x: -20.5, y: 2}
+        - {x: -23.5, y: -3}
+        - {x: -23.5, y: -12}
+        - {x: -20.5, y: -13}
+        - {x: 23.5, y: -13}
+        - {x: 23.5, y: 6}
+        - {x: 15.5, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -16.5, y: -36}
+      - {x: -21.5, y: -46}
+      - {x: -22.5, y: -53}
+      - {x: -22.5, y: -62}
+      - {x: -17.5, y: -64}
+      - {x: -12.5, y: -64}
+      - {x: -10.5, y: -61}
+      - {x: -0.5, y: -64}
+      - {x: 23.5, y: -64}
+      - {x: 28.5, y: -59}
+      - {x: 28.5, y: -49}
+      - {x: 20.5, y: -36}
+    - - {x: -64.5, y: -5}
+      - {x: -65.5, y: -7}
+      - {x: -65.5, y: -30}
+      - {x: -54.5, y: -35}
+      - {x: -40.5, y: -35}
+      - {x: -21.5, y: -15}
+      - {x: -21.5, y: -5}
+    - - {x: -17.5, y: -6}
+      - {x: -20.5, y: -7}
+      - {x: -20.5, y: -31}
+      - {x: -11.5, y: -35}
+      - {x: 13.5, y: -35}
+      - {x: 23.5, y: -27}
+      - {x: 23.5, y: -9}
+      - {x: 17.5, y: -6}
+    - - {x: 56.5, y: -5}
+      - {x: 26.5, y: -5}
+      - {x: 24.5, y: -7}
+      - {x: 24.5, y: -22}
+      - {x: 31.5, y: -35}
+      - {x: 55.5, y: -35}
+      - {x: 68.5, y: -27}
+      - {x: 68.5, y: -14}
+      - {x: 63.5, y: -6}
+    - - {x: -84.5, y: 29}
+      - {x: -106.5, y: 29}
+      - {x: -109.5, y: 27}
+      - {x: -109.5, y: 17}
+      - {x: -104.5, y: 15}
+      - {x: -98.5, y: -3}
+      - {x: -96.5, y: -4}
+      - {x: -90.5, y: -4}
+      - {x: -85.5, y: 3}
+      - {x: -67.5, y: 9}
+      - {x: -67.5, y: 17}
+    - - {x: -65.5, y: 30}
+      - {x: -66.5, y: 27}
+      - {x: -66.5, y: 12}
+      - {x: -59.5, y: -4}
+      - {x: -28.5, y: -4}
+      - {x: -23.5, y: 6}
+      - {x: -23.5, y: 23}
+      - {x: -44.5, y: 30}
+    - - {x: -20.5, y: 28}
+      - {x: -22.5, y: 26}
+      - {x: -22.5, y: 2}
+      - {x: -19.5, y: -4}
+      - {x: -2.5, y: -4}
+      - {x: 16.5, y: 2}
+      - {x: 21.5, y: 9}
+      - {x: 21.5, y: 25}
+      - {x: 18.5, y: 28}
+    - - {x: 22.5, y: 16}
+      - {x: 32.5, y: -1}
+      - {x: 38.5, y: -4}
+      - {x: 60.5, y: -4}
+      - {x: 66.5, y: 1}
+      - {x: 66.5, y: 23}
+      - {x: 65.5, y: 25}
+      - {x: 42.5, y: 30}
+      - {x: 25.5, y: 30}
+      - {x: 22.5, y: 25}
+    - - {x: 71.5, y: 28}
+      - {x: 67.5, y: 23}
+      - {x: 67.5, y: 0}
+      - {x: 68.5, y: -4}
+      - {x: 90.5, y: -4}
+      - {x: 105.5, y: 3}
+      - {x: 109.5, y: 13}
+      - {x: 109.5, y: 26}
+      - {x: 104.5, y: 28}
+    - - {x: -30.5, y: 64}
+      - {x: -35.5, y: 54}
+      - {x: -35.5, y: 33}
+      - {x: -34.5, y: 31}
+      - {x: -9.5, y: 31}
+      - {x: -3.5, y: 43}
+      - {x: -3.5, y: 48}
+      - {x: -15.5, y: 64}
+    - - {x: 14.5, y: 64}
+      - {x: 1.5, y: 64}
+      - {x: -2.5, y: 55}
+      - {x: -2.5, y: 35}
+      - {x: -0.5, y: 31}
+      - {x: 21.5, y: 31}
+      - {x: 27.5, y: 40}
+      - {x: 27.5, y: 51}
+      - {x: 23.5, y: 59}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
