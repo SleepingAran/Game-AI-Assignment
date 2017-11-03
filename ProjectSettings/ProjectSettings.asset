@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
+<<<<<<< HEAD
   productGUID: d64b2d59e34ba5142a02e6a6b7c6d22a
+=======
+  productGUID: 35dd25d9e0e62774e8c24fa30fc63852
+>>>>>>> parent of 4c0efeb... Merge branch 'master' of https://github.com/SleepingAran/Game-AI-Assignment
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -607,6 +611,10 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+<<<<<<< HEAD
+=======
+    Build: 1
+>>>>>>> parent of 4c0efeb... Merge branch 'master' of https://github.com/SleepingAran/Game-AI-Assignment
     Collab: 1
     UNet: 1
   facebookSdkVersion: 7.9.4
